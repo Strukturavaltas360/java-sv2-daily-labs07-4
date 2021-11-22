@@ -40,10 +40,4 @@ class HumanTest {
                 () -> new Human("Marika", 1879));
         assertEquals("Invalid name!", exception.getMessage());
     }
-
-
-
-
-    //human teszt: mi van ha rosszul hasnálom a feltételt? egyik rossz, másik rossz, null,
-    // mindkettő riossz
 }

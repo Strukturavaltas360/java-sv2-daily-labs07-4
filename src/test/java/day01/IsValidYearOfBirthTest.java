@@ -19,5 +19,4 @@ class IsValidYearOfBirthTest {
         assertEquals("Not valid year of Birth!",exception.getMessage());
 
     }
-
 }

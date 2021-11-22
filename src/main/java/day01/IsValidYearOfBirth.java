@@ -10,5 +10,4 @@ public class IsValidYearOfBirth {
         }
         throw new IllegalArgumentException("Not valid year of Birth!");
     }
-
 }
